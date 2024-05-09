@@ -15,7 +15,7 @@ Original designs and code by Kristopher and modified by [theJame](https://github
 
 This device was first built by an 11 year old in just two hours. After making some modifications we came up with this design.
 
-The program is designed to be simple and easy to use. Depending on device brightness you will need to change variables to detect whether or not it detects a cactus. 
+The program is designed to be simple and easy to use. Depending on device brightness you will need to change variables so it can detect cacti. 
 
 The program **only works on light mode**, but you can probably make it run on dark mode by changing the operator and light level detected.
 
